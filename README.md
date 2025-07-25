@@ -1,0 +1,1 @@
+A simple and responsive Login Page built using Python and Tkinter. This project provides a user-friendly interface for entering a username and password with basic validation logic. Ideal as a foundation for integrating into larger desktop applications or as a beginner project to learn GUI development in Python
